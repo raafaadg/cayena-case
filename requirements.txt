@@ -1,0 +1,5 @@
+pandas
+requests
+SQLAlchemy
+jupyter 
+notebook
